@@ -9,6 +9,7 @@ assignees: ''
 ## Describe the bug
 
 What happened?
+Please do not include real student names, contact details, or other private information.
 
 ## Steps to reproduce
 
